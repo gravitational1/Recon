@@ -1,0 +1,63 @@
+IP Ranges:
+
+{
+  "syncToken": "1635195677",
+  "createDate": "2020-01-14 12:44",
+  "prefixes": [
+    {
+      "ip_prefix": "34.232.19.128/25",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "52.4.254.192/26",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "34.239.91.0/24",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "34.239.91.110/32",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "34.239.91.111/32",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "3.234.238.0/24",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "3.26.141.0/24",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "44.199.221.0/24",
+      "region": "us1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "3.25.35.128/25",
+      "region": "au1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "18.156.86.128/25",
+      "region": "eu1",
+      "service": "traffic_egress"
+    },
+    {
+      "ip_prefix": "44.197.99.0/24",
+      "region": "us2",
+      "service": "traffic_egress"
+    }
+  ]
+}
